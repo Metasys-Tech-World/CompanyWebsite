@@ -1,1 +1,71 @@
-@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+/* @import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap'); */
+
+#Navitem1 {
+    color: rgb(7, 7, 95);
+    font-family: "Roboto";
+    font-size: 20px;
+}
+
+#Navitem2 {
+    color: blue;
+    font-family: "Roboto";
+    font-size: 20px;
+}
+
+#Navitem3 {
+    color: blue;
+    font-family: "Roboto";
+    font-size: 20px;
+}
+
+#Navitem4 {
+    color: blue;
+    font-family: "Roboto";
+    font-size: 20px;
+}
+
+.images {
+    height:auto;
+    width:auto
+
+}
+
+.icons {
+    color: black;
+    font-size: 25px;
+    font-weight: 800px;
+
+}
+
+.follow-head {
+    background-color: #faf7e8;
+    font-size: 24px;
+
+    font-family: "Roboto";
+}
+.contact-container{
+    background-color:blue;
+
+
+}
+
+.contact-head{
+    color:#ffffff;
+    font-family: "Roboto";
+    font-size:30px;
+    text-align: center !important;
+}
+
+.form-label{
+    color:#ffffff;
+    border-width:3px;
+    border-radius:0px;
+    
+}
+.form-control{
+    border-color:red;
+    border-style:none;
+    
+    
+
+}
