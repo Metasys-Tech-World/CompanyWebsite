@@ -24,29 +24,14 @@
     font-size: 20px;
 }
 
-.images {
-    height:auto;
-    width:auto
-
-}
-
 .icons {
     color: black;
     font-size: 25px;
     font-weight: 800px;
-
 }
 
-.follow-head {
-    background-color: #faf7e8;
-    font-size: 24px;
-
-    font-family: "Roboto";
-}
 .contact-container{
     background-color:blue;
-
-
 }
 
 .contact-head{
@@ -60,12 +45,32 @@
     color:#ffffff;
     border-width:3px;
     border-radius:0px;
-    
 }
-.form-control{
-    border-color:red;
-    border-style:none;
-    
-    
 
+.form-control,
+.form-select,
+.input-group-text,
+.form-check-input {
+  border-radius: 0% !important;
+}
+
+.form-control:focus,
+.form-select:focus,
+.form-check-input:focus,
+.page-link:focus {
+  box-shadow: none !important;
+  border: 1px solid #dee2e6 !important;
+}
+
+.contact-us {
+    background-color: #1A2B6D;
+}
+
+.btn-danger {
+    background-color: #D41317;
+}
+
+.follow-us .follow-us-link {
+    padding: 10px;
+    color: #ffffff;
 }
